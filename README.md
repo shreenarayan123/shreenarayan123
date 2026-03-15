@@ -1,24 +1,86 @@
-<h1>Hi 👋</h1>
-<h2>I'm Shreenarayan jaiswal</h2>
+# hey, i'm shreenarayan 👋
 
-<h4 >
-  I like developing and learning new tech
-</h4>
-<h2>Languages</h2>
+full stack engineer obsessed with shipping — from real-time systems and AI-powered products to DevOps pipelines that actually stay up.
+currently deep in React Native, MongoDB, and cloud infra. always building something.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp)](https://skillicons.dev)
+🌐 [shreenarayan.tech](https://shreenarayan.tech)
 
-<h2>Frameworks</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,tailwindcss)](https://skillicons.dev)
+---
 
-<h2>Databases</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
+## 🛠 tech stack
 
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,)](https://skillicons.dev)
+**Languages & Frameworks**
 
-- 📫 How to reach me :-
-- www.linkedin.com/in/shreenarayan-jaiswal-092025283
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+**AI & Cloud**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🚀 projects
+
+### deployed
+
+| project | description | stack | link |
+|---------|-------------|-------|------|
+| **Vend-AI** | AI-powered customer support platform with live chat, agent routing, and analytics | Next.js · Prisma · Gemini · Azure · PostgreSQL | [vendai.live](https://vendai.live/) |
+| **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [ciaan-cyber-tech.vercel.app](https://ciaan-cyber-tech.vercel.app) |
+| **VisaPath** | Visa application tracking and guidance tool | Next.js · TypeScript · PostgreSQL | [visapath.vercel.app](https://visapath.vercel.app) |
+| **Resume Analyzer** | AI-powered resume scoring and job match tool | Next.js · OpenAI · Tailwind CSS | [qualifypro-dream-job-builder.lovable.app](https://qualifypro-dream-job-builder.lovable.app) |
+| **Admin Dashboard** | Frontend admin panel for internal tooling | React · TypeScript · Tailwind CSS | [frontend-task-gold-ten.vercel.app](https://frontend-task-gold-ten.vercel.app) |
+| **VowsVibe** | Wedding planning and RSVP platform | React · Node.js · PostgreSQL | [vowsvibe-kappa.vercel.app](https://vowsvibe-kappa.vercel.app) |
+| **Pizza Hub** | Food ordering UI with cart and checkout | React · Tailwind CSS | [pizza-hub-amber.vercel.app](https://pizza-hub-amber.vercel.app) |
+
+### other projects
+
+| project | description | stack | repo |
+|---------|-------------|-------|------|
+| **Sociate** | Real-time group chat with rooms, presence, and typing indicators | React · Node.js · Socket.io · PostgreSQL | [github](https://github.com/shreenarayan123) |
+| **Scribbler** | Modern blogging platform with markdown editor and auth | React · TypeScript · Tailwind · Node.js · PostgreSQL | [github](https://github.com/shreenarayan123) |
+| **AI Research Agent** | Autonomous research agent that searches, synthesizes, and reports | Next.js · TypeScript · OpenAI · GCP | [github](https://github.com/shreenarayan123) |
+| **WhatsApp Bot** | Smart AI assistant over WhatsApp using OpenAI | Next.js · OpenAI · webwhatsapp.js | [asynq_ai](https://github.com/shreenarayan123/asynq_ai) |
+| **Fallon Studio AI Todo** | AI-enhanced task manager with smart prioritization | Next.js · OpenAI | [fallon-studio](https://github.com/shreenarayan123/fallon-studio) |
+| **WebRTC VLM** | Browser-based real-time video with vision-language model integration | WebRTC · TypeScript | [github](https://github.com/shreenarayan123) |
+| **Esign App** | Document e-signature workflow tool | Next.js · Prisma · PostgreSQL | [github](https://github.com/shreenarayan123) |
+| **Language Detection** | NLP-based language classifier for multilingual pipelines | Python · Node.js | [github](https://github.com/shreenarayan123) |
+| **Modular Web Scraper** | Composable scraping toolkit with pluggable extractors | TypeScript · Node.js | [github](https://github.com/shreenarayan123) |
+| **LLM Pipeline Debugger** | TypeScript library for tracing multi-step, non-deterministic LLM pipelines | TypeScript | [github](https://github.com/shreenarayan123) |
+| **taskflow** | Task and workflow management tool | Next.js · TypeScript | [taskflow](https://github.com/shreenarayan123/taskflow) |
+
+---
+
+## ⚡ currently
+
+- building React Native systems with MongoDB and DevOps at scale
+- handling customer onboarding, E2E testing, and EC2 server uptime
+- managing CI/CD pipelines for zero-downtime deployments
+- monitoring with Winston, securing with JWT + OAuth2 + RBAC
+
+---
+
+## 📬 connect
+
+[![Website](https://img.shields.io/badge/shreenarayan.tech-000?style=flat&logo=vercel&logoColor=white)](https://shreenarayan.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-shreenarayan123-181717?style=flat&logo=github)](https://github.com/shreenarayan123)
