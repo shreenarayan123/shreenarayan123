@@ -45,21 +45,20 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 
 | project | description | stack | link |
 |---------|-------------|-------|------|
-| **Vend-AI** | AI-powered customer support platform with live chat, agent routing, and analytics | Next.js · Prisma · Gemini · Azure · PostgreSQL | [vendai.live](https://vendai.live/) |
-| **VisaPath** | Visa application tracking and guidance tool | Next.js · TypeScript · PostgreSQL | [visapath.vercel.app](https://visapath.vercel.app) |
-| **Pulse** | Task management system with JWT auth and full frontend | Next.js · MongoDB · Shadcn · Zod · JWT · Tailwind CSS | [pulse-rouge.vercel.app](https://pulse-rouge.vercel.app/) |
-| **Cashly** | Seamless digital payments experience | React · Express · MongoDB · Tailwind CSS | [cashly-eight.vercel.app](https://cashly-eight.vercel.app) |
-| **TechStax** | GitHub webhook monitor — receives Push, PR, and Merge events and stores in DB | Flask · MongoDB · Python · Vercel | [techstax-webhook-46e8.vercel.app](https://techstax-webhook-46e8.vercel.app/) |
-| **StepWise** | Lightweight text automation tool — build 2-4 step AI workflows, run on any input, track execution history | Next.js · PostgreSQL · Prisma · OpenAI GPT-4o-mini · Shadcn | [github](https://github.com/shreenarayan123) |
-| **Emart** | Full-featured e-commerce with wishlist, filters, and checkout | React · Strapi CMS · Stripe · Redux · PostgreSQL · Cloudinary | [emart-k5vl.vercel.app](https://emart-k5vl.vercel.app) |
-| **StreamVid** | Next-gen video hub — browse and filter by category and likes | React · Tailwind CSS · RapidAPI | [youtube-livid-beta.vercel.app](https://youtube-livid-beta.vercel.app/) |
-| **Resume Analyzer** | AI-powered resume scoring and job match tool | Next.js · OpenAI · Tailwind CSS | [qualifypro-dream-job-builder.lovable.app](https://qualifypro-dream-job-builder.lovable.app) |
-| **Admin Dashboard** | Frontend admin panel for internal tooling | React · TypeScript · Tailwind CSS | [frontend-task-gold-ten.vercel.app](https://frontend-task-gold-ten.vercel.app) |
-| **Pizza Hub** | Pizza business landing page with 3D visuals | React · Tailwind CSS · Three.js | [pizza-hub-amber.vercel.app](https://pizza-hub-amber.vercel.app) |
-| **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [ciaan-cyber-tech.vercel.app](https://ciaan-cyber-tech.vercel.app) |
-| **E-commerce** | Modern e-commerce platform landing page | HTML · CSS · JavaScript · Bootstrap | [shreenarayan123.github.io/E-commerce](https://shreenarayan123.github.io/E-commerce/) |
-| **Facebook Clone** | Facebook-like responsive app with theme and font customization | HTML · CSS · JavaScript | [shreenarayan123.github.io/Facebook-clone](https://shreenarayan123.github.io/Facebook-clone/) |
-
+| **Vend-AI** | AI-powered customer support platform with live chat, agent routing, and analytics | Next.js · Prisma · Gemini · Azure · PostgreSQL | [Live](https://vendai.live/) |
+| **VisaPath** | Visa application tracking and guidance tool | Next.js · TypeScript · PostgreSQL | [Live](https://visapath.vercel.app) |
+| **Pulse** | Task management system with JWT auth and full frontend | Next.js · MongoDB · Shadcn · Zod · JWT · Tailwind CSS | [Live](https://pulse-rouge.vercel.app/) |
+| **Cashly** | Seamless digital payments experience | React · Express · MongoDB · Tailwind CSS | [Live](https://cashly-eight.vercel.app) |
+| **TechStax** | GitHub webhook monitor — receives Push, PR, and Merge events and stores in DB | Flask · MongoDB · Python · Vercel | [Live](https://techstax-webhook-46e8.vercel.app/) |
+| **StepWise** | Lightweight text automation tool — build 2-4 step AI workflows, run on any input, track execution history | Next.js · PostgreSQL · Prisma · OpenAI GPT-4o-mini · Shadcn | [Live](https://aggroso-nb1o.vercel.app/) |
+| **Emart** | Full-featured e-commerce with wishlist, filters, and checkout | React · Strapi CMS · Stripe · Redux · PostgreSQL · Cloudinary | [Live](https://emart-k5vl.vercel.app) |
+| **StreamVid** | Next-gen video hub — browse and filter by category and likes | React · Tailwind CSS · RapidAPI | [Live](https://youtube-livid-beta.vercel.app/) |
+| **Resume Analyzer** | AI-powered resume scoring and job match tool | Next.js · OpenAI · Tailwind CSS | [Live](https://qualifypro-dream-job-builder.lovable.app) |
+| **Admin Dashboard** | Frontend admin panel for internal tooling | React · TypeScript · Tailwind CSS | [Live](https://frontend-task-gold-ten.vercel.app) |
+| **Pizza Hub** | Pizza business landing page with 3D visuals | React · Tailwind CSS · Three.js | [Live](https://pizza-hub-amber.vercel.app) |
+| **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [Live](https://ciaan-cyber-tech.vercel.app) |
+| **E-commerce** | Modern e-commerce platform landing page | HTML · CSS · JavaScript · Bootstrap | [Live](https://shreenarayan123.github.io/E-commerce/) |
+| **Facebook Clone** | Facebook-like responsive app with theme and font customization | HTML · CSS · JavaScript | [Live](https://shreenarayan123.github.io/Facebook-clone/) |
 ### other projects
 
 | project | description | stack | repo |
@@ -70,7 +69,7 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 | **WhatsApp Bot** | Smart AI assistant over WhatsApp using OpenAI | Next.js · OpenAI · webwhatsapp.js | [github](https://github.com/shreenarayan123/asynq_ai) |
 | **Fallon Studio AI Todo** | AI-enhanced task manager with smart prioritization | Next.js · OpenAI | [github](https://github.com/shreenarayan123/fallon-studio) |
 | **WebRTC VLM** | Browser-based real-time video with vision-language model integration | WebRTC · TypeScript | [github](https://github.com/shreenarayan123/admybrand-webrtc) |
-| **Esign App** | Document e-signature workflow tool | Next.js · Prisma · PostgreSQL | [github](https://github.com/shreenarayan123/esign-app) |
+| **Esign App** | Document e-signature workflow tool | Nest.js · Prisma · PostgreSQL | [github](https://github.com/shreenarayan123/esign-app) |
 | **Language Detection** | NLP-based language classifier for multilingual pipelines | Python · Node.js | [github](https://github.com/shreenarayan123/driplink-app) |
 | **Modular Web Scraper** | Composable scraping toolkit with pluggable extractors | TypeScript · Node.js | [github](https://github.com/shreenarayan123/ogtool_assignment) |
 | **LLM Pipeline Debugger** | TypeScript library for tracing multi-step, non-deterministic LLM pipelines | TypeScript | [github](https://github.com/shreenarayan123/equal-collective) |
