@@ -82,3 +82,5 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 
 [![Website](https://img.shields.io/badge/shreenarayan.tech-000?style=flat&logo=vercel&logoColor=white)](https://shreenarayan.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-shreenarayan123-181717?style=flat&logo=github)](https://github.com/shreenarayan123)
+[![Gmail](https://img.shields.io/badge/Gmail-narayanjaiswal030@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narayanjaiswal030@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1tEL7DX3kaSbvHnarWtx05NBXJ66JFNSN/view?usp=drive_link)
