@@ -50,23 +50,21 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 | **VisaPath** | Visa application tracking and guidance tool | Next.js · TypeScript · PostgreSQL | [visapath.vercel.app](https://visapath.vercel.app) |
 | **Resume Analyzer** | AI-powered resume scoring and job match tool | Next.js · OpenAI · Tailwind CSS | [qualifypro-dream-job-builder.lovable.app](https://qualifypro-dream-job-builder.lovable.app) |
 | **Admin Dashboard** | Frontend admin panel for internal tooling | React · TypeScript · Tailwind CSS | [frontend-task-gold-ten.vercel.app](https://frontend-task-gold-ten.vercel.app) |
-| **VowsVibe** | Wedding planning and RSVP platform | React · Node.js · PostgreSQL | [vowsvibe-kappa.vercel.app](https://vowsvibe-kappa.vercel.app) |
-| **Pizza Hub** | Food ordering UI with cart and checkout | React · Tailwind CSS | [pizza-hub-amber.vercel.app](https://pizza-hub-amber.vercel.app) |
+| **Pizza Hub** | Pizza business landingpage | React · Tailwind CSS . Three.js | [pizza-hub-amber.vercel.app](https://pizza-hub-amber.vercel.app) |
 
 ### other projects
 
 | project | description | stack | repo |
 |---------|-------------|-------|------|
-| **Sociate** | Real-time group chat with rooms, presence, and typing indicators | React · Node.js · Socket.io · PostgreSQL | [github](https://github.com/shreenarayan123) |
-| **Scribbler** | Modern blogging platform with markdown editor and auth | React · TypeScript · Tailwind · Node.js · PostgreSQL | [github](https://github.com/shreenarayan123) |
-| **AI Research Agent** | Autonomous research agent that searches, synthesizes, and reports | Next.js · TypeScript · OpenAI · GCP | [github](https://github.com/shreenarayan123) |
+| **Sociate** | Real-time group chat with rooms, presence, and typing indicators | React · Node.js · Socket.io · PostgreSQL | [github](https://github.com/shreenarayan123/Sociate) |
+| **Scribbler** | Modern blogging platform with markdown editor and auth | React · TypeScript · Tailwind · Node.js · PostgreSQL | [github](https://github.com/shreenarayan123/Scribblr) |
 | **WhatsApp Bot** | Smart AI assistant over WhatsApp using OpenAI | Next.js · OpenAI · webwhatsapp.js | [asynq_ai](https://github.com/shreenarayan123/asynq_ai) |
 | **Fallon Studio AI Todo** | AI-enhanced task manager with smart prioritization | Next.js · OpenAI | [fallon-studio](https://github.com/shreenarayan123/fallon-studio) |
-| **WebRTC VLM** | Browser-based real-time video with vision-language model integration | WebRTC · TypeScript | [github](https://github.com/shreenarayan123) |
-| **Esign App** | Document e-signature workflow tool | Next.js · Prisma · PostgreSQL | [github](https://github.com/shreenarayan123) |
-| **Language Detection** | NLP-based language classifier for multilingual pipelines | Python · Node.js | [github](https://github.com/shreenarayan123) |
-| **Modular Web Scraper** | Composable scraping toolkit with pluggable extractors | TypeScript · Node.js | [github](https://github.com/shreenarayan123) |
-| **LLM Pipeline Debugger** | TypeScript library for tracing multi-step, non-deterministic LLM pipelines | TypeScript | [github](https://github.com/shreenarayan123) |
+| **WebRTC VLM** | Browser-based real-time video with vision-language model integration | WebRTC · TypeScript | [github](https://github.com/shreenarayan123/admybrand-webrtc) |
+| **Esign App** | Document e-signature workflow tool | Next.js · Prisma · PostgreSQL | [github](https://github.com/shreenarayan123/esign-app) |
+| **Language Detection** | NLP-based language classifier for multilingual pipelines | Python · Node.js | [github](https://github.com/shreenarayan123/driplink-app) |
+| **Modular Web Scraper** | Composable scraping toolkit with pluggable extractors | TypeScript · Node.js | [github](https://github.com/shreenarayan123/ogtool_assignment) |
+| **LLM Pipeline Debugger** | TypeScript library for tracing multi-step, non-deterministic LLM pipelines | TypeScript | [github](https://github.com/shreenarayan123/equal-collective) |
 | **taskflow** | Task and workflow management tool | Next.js · TypeScript | [taskflow](https://github.com/shreenarayan123/taskflow) |
 
 ---
