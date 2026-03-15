@@ -46,15 +46,17 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 | project | description | stack | link |
 |---------|-------------|-------|------|
 | **Vend-AI** | AI-powered customer support platform with live chat, agent routing, and analytics | Next.js · Prisma · Gemini · Azure · PostgreSQL | [vendai.live](https://vendai.live/) |
-| **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [ciaan-cyber-tech.vercel.app](https://ciaan-cyber-tech.vercel.app) |
 | **VisaPath** | Visa application tracking and guidance tool | Next.js · TypeScript · PostgreSQL | [visapath.vercel.app](https://visapath.vercel.app) |
 | **Pulse** | Task management system with JWT auth and full frontend | Next.js · MongoDB · Shadcn · Zod · JWT · Tailwind CSS | [pulse-rouge.vercel.app](https://pulse-rouge.vercel.app/) |
 | **Cashly** | Seamless digital payments experience | React · Express · MongoDB · Tailwind CSS | [cashly-eight.vercel.app](https://cashly-eight.vercel.app) |
+| **TechStax** | GitHub webhook monitor — receives Push, PR, and Merge events and stores in DB | Flask · MongoDB · Python · Vercel | [techstax-webhook-46e8.vercel.app](https://techstax-webhook-46e8.vercel.app/) |
+| **StepWise** | Lightweight text automation tool — build 2-4 step AI workflows, run on any input, track execution history | Next.js · PostgreSQL · Prisma · OpenAI GPT-4o-mini · Shadcn | [github](https://github.com/shreenarayan123) |
 | **Emart** | Full-featured e-commerce with wishlist, filters, and checkout | React · Strapi CMS · Stripe · Redux · PostgreSQL · Cloudinary | [emart-k5vl.vercel.app](https://emart-k5vl.vercel.app) |
 | **StreamVid** | Next-gen video hub — browse and filter by category and likes | React · Tailwind CSS · RapidAPI | [youtube-livid-beta.vercel.app](https://youtube-livid-beta.vercel.app/) |
 | **Resume Analyzer** | AI-powered resume scoring and job match tool | Next.js · OpenAI · Tailwind CSS | [qualifypro-dream-job-builder.lovable.app](https://qualifypro-dream-job-builder.lovable.app) |
 | **Admin Dashboard** | Frontend admin panel for internal tooling | React · TypeScript · Tailwind CSS | [frontend-task-gold-ten.vercel.app](https://frontend-task-gold-ten.vercel.app) |
 | **Pizza Hub** | Pizza business landing page with 3D visuals | React · Tailwind CSS · Three.js | [pizza-hub-amber.vercel.app](https://pizza-hub-amber.vercel.app) |
+| **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [ciaan-cyber-tech.vercel.app](https://ciaan-cyber-tech.vercel.app) |
 | **E-commerce** | Modern e-commerce platform landing page | HTML · CSS · JavaScript · Bootstrap | [shreenarayan123.github.io/E-commerce](https://shreenarayan123.github.io/E-commerce/) |
 | **Facebook Clone** | Facebook-like responsive app with theme and font customization | HTML · CSS · JavaScript | [shreenarayan123.github.io/Facebook-clone](https://shreenarayan123.github.io/Facebook-clone/) |
 
