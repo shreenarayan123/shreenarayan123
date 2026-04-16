@@ -1,4 +1,4 @@
-# hey, i'm shreenarayan 👋
+# Hey, I'm shreenarayan 👋
 
 full stack engineer obsessed with shipping — from real-time systems and AI-powered products to DevOps pipelines that actually stay up.
 currently deep in React Native, MongoDB, and cloud infra. always building something.
