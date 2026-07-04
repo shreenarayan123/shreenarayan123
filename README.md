@@ -7,7 +7,7 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 
 ---
 
-## 🛠 tech stack
+## 🛠 Tech Stack
 
 **Languages & Frameworks**
 
@@ -39,9 +39,8 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 
 ---
 
-## 🚀 projects
+## 🚀 Projects
 
-### deployed
 
 | project | description | stack | link |
 |---------|-------------|-------|------|
@@ -59,10 +58,8 @@ currently deep in React Native, MongoDB, and cloud infra. always building someth
 | **Ciaan Cyber Tech** | LinkedIn-style professional networking platform | React · Node.js · PostgreSQL | [Live](https://ciaan-cyber-tech.vercel.app) |
 | **E-commerce** | Modern e-commerce platform landing page | HTML · CSS · JavaScript · Bootstrap | [Live](https://shreenarayan123.github.io/E-commerce/) |
 | **Facebook Clone** | Facebook-like responsive app with theme and font customization | HTML · CSS · JavaScript | [Live](https://shreenarayan123.github.io/Facebook-clone/) |
-### other projects
-
-| project | description | stack | repo |
-|---------|-------------|-------|------|
+| **Doable** | A lightweight collaborative document editor built , Autosave , Rich text edit formatting, up, file upload , docs share | Next.js · Prisma · Postgresql · Typescript | [github](https://github.com/shreenarayan123/nao-medical) |
+| **Helios** | Run Nmap network discovery scans, visualising discovered hosts and open ports, | React.js · Prisma · Postgresql · Typescript · Nmap  | [github](https://github.com/shreenarayan123/trillisent) |
 | **Sociate** | All-in-one social media — chat, share, connect with real-time presence | React · Express · MongoDB · Redux · Socket.io · Firebase | [github](https://github.com/shreenarayan123/Sociate) |
 | **Scribbler** | Modern blogging platform with markdown editor and auth | React · TypeScript · Tailwind · Node.js · PostgreSQL | [github](https://github.com/shreenarayan123/Scribblr) |
 | **AI Research Agent** | Autonomous research agent that searches, synthesizes, and reports | Next.js · TypeScript · OpenAI · GCP | [github](https://github.com/shreenarayan123) |
